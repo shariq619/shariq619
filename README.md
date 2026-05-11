@@ -11,7 +11,7 @@
 
 - 💻 Full Stack Web Developer
 - 🌱 Currently working on: **BeautyAtDoor**
-- ⚡ Skilled in React, Spring Boot, Tailwind CSS, PostgreSQL
+- ⚡ Skilled in React, Laravel, Spring Boot, Tailwind CSS, PostgreSQL
 - 🎯 Focused on creating real-world scalable apps
 - 📍 Based in Pakistan
 
@@ -21,6 +21,7 @@
 
 ### Frontend
 - React.js
+- Next.js
 - Vite
 - Tailwind CSS
 - JavaScript
@@ -28,7 +29,7 @@
 - CSS3
 
 ### Backend
-- Spring Boot
+- Laravel
 - Java
 - REST APIs
 - JWT Authentication
@@ -36,6 +37,9 @@
 ### Database
 - PostgreSQL
 - MySQL
+
+### CMS
+- WordPress
 
 ### Tools & Platforms
 - Git & GitHub
@@ -49,15 +53,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shariq619&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shariq619&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shariq619&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -66,6 +70,9 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -76,15 +83,15 @@
 ## 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <a href="https://github.com/shariq619" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammad-shariq-71043152/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:muhammadshariqali@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
