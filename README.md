@@ -10,6 +10,10 @@ I build web and mobile products, from APIs and database design to user interface
 - **Data:** PostgreSQL, MySQL
 - **Platforms & integrations:** WordPress, Git, GitHub, Vercel, Railway, Stripe
 
+## Portfolio website
+
+**[Explore my portfolio ↗](https://shariq-portfolio-nine.vercel.app/)** — selected projects, technical expertise, and contact options.
+
 ## Selected public repositories
 
 | Repository | What it demonstrates |
